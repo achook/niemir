@@ -37,7 +37,7 @@ label start:
 
     n "Jam jest Niemir, wasz przyjaciel. Jakimż tonem wy gadacie?"
 
-    w "Ton nie ważny, proszę ja was, mam zagadkę - podam zaraz."
+    w "Ton nieważny, proszę ja was, mam zagadkę - podam zaraz."
 
     w "Patrzcież ludy! Anteprener chce pokazać nam swą cenę! Jest zagadka na tym słupie a na razie mam was w dupie!"
 
